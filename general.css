@@ -70,7 +70,7 @@ h1 {
 }
 
 .searchBar::-webkit-input-placeholder {
-    transition: color 1s;
+    transition: color 0.5s;
 }
 
 .searchBar {
@@ -85,12 +85,12 @@ h1 {
     border-style: solid;
     outline: 0;
     opacity: 0.5;
-    transition: all 1s;
+    transition: all 0.25s;
 }
 
 .searchBar:hover {
     cursor: pointer;
-    transition: all 0.5s;
+    transition: all 0.25s;
     background-position: right center;
     opacity: 1;
 }
