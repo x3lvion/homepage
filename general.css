@@ -129,7 +129,7 @@ nav {
     border-width: 2px;
     border-style: solid;
     outline: none;
-    transition: all 1s;
+    transition: all 0.5s;
 }
 .buttonArrow > a:after {
     width: 0;
@@ -145,7 +145,7 @@ nav {
     content:"";
     margin: 8px 10px 0 8px;
     float: right;
-    transition: all 1s;
+    transition: all 0.5s;
 }
 .buttonArrow:hover > a:after {
     transition: transform 0.5s, border 1s;
@@ -159,7 +159,7 @@ nav {
     max-height: 0;
     border-width: 0;
     border-style: solid;
-    transition: all 1s;
+    transition: all 0.5s;
     z-index: 10;
 }
 .button:hover > ul {
