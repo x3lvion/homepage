@@ -57,6 +57,10 @@ h1 {
 .search_wikipedia {
     background-image: url('images/icons/wikipedia.jpg');
 }
+.search_duckduckgo {
+    background-image: url('images/icons/duckduckgo.png');
+}
+
 
 /* Grey button */
 .button_grey > a,
