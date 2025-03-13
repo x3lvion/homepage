@@ -60,6 +60,9 @@ h1 {
 .search_duckduckgo {
     background-image: url('images/icons/duckduckgo.png');
 }
+.search_yandex {
+    background-image: url('images/icons/yandex.png');
+}
 
 
 /* Grey button */
